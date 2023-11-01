@@ -1,3 +1,3 @@
 # demoRepo
-<br/>
+<hr/>
 This is my demo repo
